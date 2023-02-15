@@ -4,7 +4,7 @@ Coding Ninjas Skill Test React Group 2
 This is an simple tooltip app.Create the frontend for an Todolist App.
 
 # Hosted link:-
-
+https://mohanmajee.github.io/ReactTooltip/
 
 # Technologies used :- 
 React.js, HTML, CSS, extra library packages . 
@@ -15,11 +15,7 @@ According to the position the tooltip should render at that position.
 
 
 # ScreenShot
-![Capture12](https://user-images.githubusercontent.com/66526101/218799726-020c0c61-0459-478f-9577-db12f7cbb2ee.PNG)
-![Capture13](https://user-images.githubusercontent.com/66526101/218799740-fc8653e0-0ad5-4152-8084-e2f4ea770d19.PNG)
-![Capture14](https://user-images.githubusercontent.com/66526101/218799746-4d87151c-024b-45c7-8888-f84a785bbfd6.PNG)
-![Capture10](https://user-images.githubusercontent.com/66526101/218799754-250c55fe-750a-46aa-a1e1-fdcf3f8d6325.PNG)
-![Capture11](https://user-images.githubusercontent.com/66526101/218799761-997ccc7d-a486-4160-a8df-f52ae682a0cf.PNG)
+
 
 
 # Getting Started with Create React App
