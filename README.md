@@ -1,5 +1,5 @@
 # ReactTooltip
-Coding Ninjas Skill Test React Group 2
+Coding Ninjas Skill Test React Group 1
 
 This is an simple tooltip app.Create the frontend for an Todolist App.
 
@@ -10,11 +10,15 @@ https://mohanmajee.github.io/ReactTooltip/
 React.js, HTML, CSS, extra library packages . 
 # Functions:-
 On hovering of the button I should show a tooltip.
-The component will receive the ‘position‘ of tooltip as prop.  “top”, “bottom”, “right”, “left”.
+The component will receive the ‘position‘ of tooltip   “top”, “bottom”, “right”, “left”.
 According to the position the tooltip should render at that position.
 
 
 # ScreenShot
+![Capture16](https://user-images.githubusercontent.com/66526101/219077290-3063ae49-a172-47e7-939c-0caa87230e23.PNG)
+![Capture17](https://user-images.githubusercontent.com/66526101/219077308-d6d0d7fb-c6be-4c44-a81a-6976fa920174.PNG)
+![Capture18](https://user-images.githubusercontent.com/66526101/219077314-326aad0e-5f7b-4689-b981-4288b0d5edbb.PNG)
+![Capture19](https://user-images.githubusercontent.com/66526101/219077322-8b7a117e-ebc1-4b8f-8d47-b223ba3581d5.PNG)
 
 
 
